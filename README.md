@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form">
-      <img src="images/logo.png" alt="Logo" width="80" height="80">
+      <img src="./screenshots/credit-card.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Advanced Credit Card Form</h3>
