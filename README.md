@@ -11,21 +11,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form">
+  <a href="https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form">
       <img src="./images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Advanced Credit Card Form</h3>
 
   <p align="center">
-    An Advanced credit card from using Vanilla JS and CSS, made as a tutorial uploaded on channel 
+    An Advanced credit card from using Vanilla JS and CSS, made as a tutorial uploaded on channel
       <a href="https://www.youtube.com/c/WebDevSimplified">WebSimplified</a> <a href="https://www.youtube.com/watch?v=dpccMFOYtHM">Video Link</a>
     <br />
-    <a href="https://ujjwalgarg100204.github.io/Vanilla-JS-Advanced-Credit-Card-Form/">View Demo</a>
+    <a href="https://gargujjwal.github.io/Vanilla-JS-Advanced-Credit-Card-Form/">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form/issues">Request Feature</a>
 
   </p>
 </div>
@@ -59,9 +59,9 @@
 
 ### Built With
 
--   [![HTML][HTML]][HTML-url]
--   [![CSS][CSS]][CSS-url]
--   [![JS][JS]][JS-url]
+- [![HTML][HTML]][HTML-url]
+- [![CSS][CSS]][CSS-url]
+- [![JS][JS]][JS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,8 +86,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form](https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Vanilla-JS-Advanced-Credit-Card-Form](https://ujjwalgarg100204.github.io/Vanilla-JS-Advanced-Credit-Card-Form)
+- Repo URL: [https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form](https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form)
+- Live Site URL: [https://gargujjwal.github.io/Vanilla-JS-Advanced-Credit-Card-Form](https://gargujjwal.github.io/Vanilla-JS-Advanced-Credit-Card-Form)
 
 <!-- LICENSE -->
 
@@ -101,28 +101,21 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
--   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
+- Website - [Ujjwal Garg](https://github.com/gargujjwal)
+- Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+- LinkedIn - [@gargujjwal](https://www.linkedin.com/in/gargujjwal/)
+- Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
-[contributors-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
-[forks-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/network/members
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
-[issues-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/issues
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Advanced-Credit-Card-Form/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form/stargazers
+[license-shield]: https://img.shields.io/github/license/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form.svg?style=for-the-badge
+[license-url]: https://github.com/gargujjwal/Vanilla-JS-Advanced-Credit-Card-Form/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ujjwal-garg-3a5639243
-[product-screenshot]: images/screenshots.png
+[linkedin-url]: https://linkedin.com/in/gargujjwal04
 [HTML]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white
 [HTML-url]: https://www.w3schools.com/html/html_intro.asp
 [CSS]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=61DAFB
